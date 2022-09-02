@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'CormorantGaramond-BoldItalic';
+  src: url('CormorantGaramond-BoldItalic.eot');
+  src: url('CormorantGaramond-BoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('CormorantGaramond-BoldItalic.svg#CormorantGaramond-BoldItalic') format('svg'),
+       url('CormorantGaramond-BoldItalic.ttf') format('truetype'),
+       url('CormorantGaramond-BoldItalic.woff') format('woff'),
+       url('CormorantGaramond-BoldItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CormorantGaramond-Light';
+  src: url('CormorantGaramond-Light.eot');
+  src: url('CormorantGaramond-Light.eot?#iefix') format('embedded-opentype'),
+       url('CormorantGaramond-Light.svg#CormorantGaramond-Light') format('svg'),
+       url('CormorantGaramond-Light.ttf') format('truetype'),
+       url('CormorantGaramond-Light.woff') format('woff'),
+       url('CormorantGaramond-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-Medium';
+  src: url('CormorantGaramond-Medium.eot');
+  src: url('CormorantGaramond-Medium.eot?#iefix') format('embedded-opentype'),
+       url('CormorantGaramond-Medium.svg#CormorantGaramond-Medium') format('svg'),
+       url('CormorantGaramond-Medium.ttf') format('truetype'),
+       url('CormorantGaramond-Medium.woff') format('woff'),
+       url('CormorantGaramond-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-MediumItalic';
+  src: url('CormorantGaramond-MediumItalic.eot');
+  src: url('CormorantGaramond-MediumItalic.eot?#iefix') format('embedded-opentype'),
+       url('CormorantGaramond-MediumItalic.svg#CormorantGaramond-MediumItalic') format('svg'),
+       url('CormorantGaramond-MediumItalic.ttf') format('truetype'),
+       url('CormorantGaramond-MediumItalic.woff') format('woff'),
+       url('CormorantGaramond-MediumItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-Regular';
+  src: url('CormorantGaramond-Regular.eot');
+  src: url('CormorantGaramond-Regular.eot?#iefix') format('embedded-opentype'),
+       url('CormorantGaramond-Regular.svg#CormorantGaramond-Regular') format('svg'),
+       url('CormorantGaramond-Regular.ttf') format('truetype'),
+       url('CormorantGaramond-Regular.woff') format('woff'),
+       url('CormorantGaramond-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-SemiBold';
+  src: url('CormorantGaramond-SemiBold.eot');
+  src: url('CormorantGaramond-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('CormorantGaramond-SemiBold.svg#CormorantGaramond-SemiBold') format('svg'),
+       url('CormorantGaramond-SemiBold.ttf') format('truetype'),
+       url('CormorantGaramond-SemiBold.woff') format('woff'),
+       url('CormorantGaramond-SemiBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-SemiBoldItalic';
+  src: url('CormorantGaramond-SemiBoldItalic.eot');
+  src: url('CormorantGaramond-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('CormorantGaramond-SemiBoldItalic.svg#CormorantGaramond-SemiBoldItalic') format('svg'),
+       url('CormorantGaramond-SemiBoldItalic.ttf') format('truetype'),
+       url('CormorantGaramond-SemiBoldItalic.woff') format('woff'),
+       url('CormorantGaramond-SemiBoldItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
