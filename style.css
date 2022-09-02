@@ -310,14 +310,14 @@ h1 span {
 }
 .contacts__relation div a {
   display: block; 
-  padding: 10px;
+  padding: 0.52vw;
   width: 42%;
   font-size: 1em;
   text-align: center;
   border-radius: 64px;
   transition: 0.3s;
-  border: 5px solid var(--main-dark-color);
-  color: var(--main-light-color);;
+  border: 0.26vw solid var(--main-dark-color);
+  color: var(--main-light-color);
   background-color: var(--main-dark-color);
 }
 .contacts__relation div a:hover {
@@ -333,7 +333,7 @@ h1 span {
 .contacts__relation img {
   position: absolute;
   width: 7vw;
-  top: 20px;
+  top: 1.1vw;
 }
 .leftarrow {
   left: -3.5vw;
