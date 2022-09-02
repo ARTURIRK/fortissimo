@@ -19,7 +19,9 @@ body { font-size: 2.55vw; line-height: 1; font-style: normal;
   color: var(--main-dark-color);
   overflow-x: hidden;
 }
-
+.all-content{
+  display: none;
+}
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
 ol, ul { list-style: none; }
 
