@@ -196,7 +196,6 @@ h1 span {
 
 
 #principle{
-  margin-top: 18.6vw;
   margin-bottom: 9.3vw;
 }
 .principle__bg {
@@ -263,7 +262,7 @@ h1 span {
   font-family: 'CormorantGaramond-Light';
 }
 .director__description h2 {
-  margin-bottom: 6vw;
+  margin-bottom: 4vw;
 }
 .director__description p {
   width: 90%;
@@ -350,4 +349,102 @@ footer a{
   text-align: center;
   font-family: 'CormorantGaramond-Medium';
   color: var(--main-dark-color);
+}
+@media screen and (max-width: 768px) {
+  body{
+    font-size: 3vw;
+  }
+  #header {
+    padding-top: 33vw;
+  }
+  .header__mainCont {
+    gap: 14vw 0;
+  }
+  .header__bcg {
+    bottom: -10vw;
+  }  
+  .header__contacts {
+    flex-direction: column-reverse;
+  }
+  .header__contacts p {
+    font-size: 1.1em;
+  }
+  #description {
+    margin-bottom: 15vw;
+  }
+  .description__cont, .description__start-box {
+    align-items: flex-end;
+  }
+  .description__start-box p {
+    width: 77%;
+  }
+  .description__start-box h2 {
+    width: 80%;
+    align-self: flex-start;
+  }
+  .description__specialist {
+    margin-top: 18vw;
+  }
+  .description__bcg {
+    bottom: 21vw;
+  }
+  .description__specialist img {
+    max-width: 48vw;
+  }
+  .description__specialist-text {
+    padding: 0;
+  }
+  .description__specialist-text p{
+    line-height: 1;
+  }
+  .description__specialist-text p:nth-of-type(1) {
+    width: 90%;
+  }
+  .description__cont-footer p:nth-of-type(2) {
+    width: 85%;
+    align-self: flex-start;
+  }
+  .description__cont-footer {
+    margin-top: 18.4vw;
+  }
+  .principle__cont {
+    margin-bottom: 16.4vw;
+  }
+  .principle__cont ul {
+    margin-left: auto;
+    width: 81%;
+  }
+  .director__description h2 {
+    line-height: 1.1em;
+    font-size: 0.9em;
+  }
+  .director__description h2 span {
+    display: block;
+    line-height: 1.1em;
+    font-size: 0.9em;
+  }
+  .director__description p{
+    margin-bottom: 4vw;
+    width: 75%;
+    line-height: 1.1em;
+    font-size: 0.85em;
+  }
+  .director__description p:nth-of-type(2) {
+    width: 65%;
+  }
+  .director__description p:nth-of-type(3) {
+    margin-bottom: 0;
+    width: 50%;
+  }
+  #contacts article p:nth-of-type(1) {
+   font-size: 1.1em;
+    width: 100%;
+  }
+  .contacts__relation div a {
+    width: 43%;
+    font-size: 0.9em;
+  }
+  footer {
+    padding-bottom: 6vw;
+  }
 }
