@@ -304,7 +304,7 @@ h1 span {
   width: 96%;
 }
 .description__cont-footer {
-  margin-top: 11vw;
+  margin-top: 13vw;
   line-height: 1.13em;
   gap: 5.2vw 0;
 }
@@ -314,7 +314,7 @@ h1 span {
 .description__bcg {
   position: absolute;
   width: 100%;
-  bottom: 11vw;
+  bottom: 13vw;
 }
 
 #principle {
