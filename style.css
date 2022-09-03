@@ -511,15 +511,12 @@ footer a {
     width: 90%;
   }
   #description {
-    margin-bottom: 15vw;
-  }
-  .description__cont,
-  .description__start-box {
-    align-items: flex-end;
+    margin-bottom: 19vw;
   }
   .description__start-box p {
     font-size: 1.33em;
     width: 81%;
+    align-self: flex-end;
   }
   .description__start-box h2 {
     font-size: 1.33em;
@@ -530,8 +527,8 @@ footer a {
     margin-top: 18vw;
   }
   .description__bcg {
-    bottom: 23vw;
-    height: 86vw;
+    bottom: 19vw;
+    height: 87vw;
   }
   .description__specialist img {
     max-width: 50vw;
@@ -545,18 +542,26 @@ footer a {
     font-size: 0.9em;
     width: 94%;
   }
+  .description__cont p:nth-of-type(1),
+  .principle__text-cont p:nth-of-type(1) {
+    text-align: center;
+  }
   .description__cont-footer p:nth-of-type(2) {
     width: 88%;
-    align-self: flex-start;
+    text-align: center;
   }
   .description__cont-footer {
     margin-top: 18.4vw;
+    align-items: center;
+  }
+  #principle {
+    margin-bottom: 14vw;
   }
   .principle__bg {
-    height: 87vw;
+    height: 86vw;
   }
   .principle__cont {
-    margin-bottom: 16.4vw;
+    margin-bottom: 17vw;
     padding-top: 2vw;
   }
   .principle__cont img {
@@ -569,14 +574,19 @@ footer a {
   }
   .principle__text-cont {
     gap: 5vw 0;
+    align-items: center;
   }
   .principle__text-cont p:nth-of-type(2) {
-    width: 86%;
+    width: 97%;
+    text-align: center;
+  }
+  #director {
+    padding-bottom: 16vw;
   }
   .director__bg {
     width: auto;
-    top: -10vw;
-    height: 83.2vw;
+    top: -12vw;
+    height: 85vw;
   }
   .director__description div {
     padding-top: 5vw;
@@ -584,6 +594,7 @@ footer a {
   .director__description h2 {
     line-height: 1.1em;
     font-size: 1.16em;
+    font-weight: 300;
   }
   .director__description h2 span {
     display: block;
@@ -635,10 +646,10 @@ footer a {
     top: 2vw;
   }
   .leftarrow {
-    left: -6vw;
+    left: 1vw;
   }
   .rightarrow {
-    right: -6vw;
+    right: 1vw;
   }
   footer {
     padding-bottom: 6vw;
