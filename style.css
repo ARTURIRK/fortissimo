@@ -478,6 +478,18 @@ footer a {
   font-family: "CormorantGaramond-Medium";
   color: var(--main-dark-color);
 }
+.music {
+  width: 4.2vw;
+  height: 4.2vw;
+  background: var(--main-light-color) url('./images/musicOn.svg') no-repeat center;
+  border-radius: 50%;
+  position: fixed;
+  top: 3%;
+  right: 3%;
+  z-index: 5;
+  border: 2px solid var(--main-dark-color);
+  cursor: pointer;
+}
 @media screen and (max-width: 768px) {
   body {
     font-size: 3.2vw;
