@@ -481,6 +481,7 @@ footer a {
 .music {
   width: 4.2vw;
   height: 4.2vw;
+  padding: 0;
   background: var(--main-light-color) url('./images/musicOn.svg') no-repeat center /55%;
   border-radius: 50%;
   position: fixed;
