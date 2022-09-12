@@ -104,9 +104,7 @@ body {
   background-color: var(--main-light-color);
   color: var(--main-dark-color);
   overflow-x: hidden;
-}
-.all-content {
-  display: none;
+  visibility: hidden;
 }
 article,
 aside,

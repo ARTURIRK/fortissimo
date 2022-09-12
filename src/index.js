@@ -8,7 +8,7 @@ const tippy = require("tippy.js").default;
 const musicButton = document.querySelector(".music");
 const song = new Audio(music);
 window.addEventListener("load", () => {
-  document.querySelector(".all-content").style.display = "block";
+  document.body.style.visibility = "visible";
 });
 musicButton.addEventListener("click", playOrPauseSong);
 function playOrPauseSong() {
