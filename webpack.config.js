@@ -101,7 +101,7 @@ module.exports = {
         use: cssLoaders(),
       },
       {
-        test: /\.(?:ico|png|jpg|jpeg|svg)$/i,
+        test: /\.(png|jpg|jpeg|svg)$/i,
         type: "asset/inline",
       },
       {
